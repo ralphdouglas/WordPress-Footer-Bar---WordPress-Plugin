@@ -1,5 +1,7 @@
 <?php 
 
-		echo"Inicio do Projeto!";
+		echo"Project initial";
+
+		
 
  ?>
